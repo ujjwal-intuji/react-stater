@@ -1,5 +1,3 @@
-import "@/styles/app.css";
-
 export default function App() {
-  return <>React stater template</>;
+	return <div className='bg-black'>React stater template</div>;
 }
